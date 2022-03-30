@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="524.904" height="702.389" viewBox="0 0 524.904 702.389">
+  <defs>
+    <linearGradient id="linear-gradient" y1="1" x2="0.47" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#84f4bc"/>
+      <stop offset="0.1" stop-color="#90f4b4"/>
+      <stop offset="0.2" stop-color="#9df3ab"/>
+      <stop offset="0.3" stop-color="#a9f2a3"/>
+      <stop offset="0.4" stop-color="#b5f19a"/>
+      <stop offset="0.5" stop-color="#c1f092"/>
+      <stop offset="0.6" stop-color="#cef08a"/>
+      <stop offset="0.7" stop-color="#daef81"/>
+      <stop offset="0.8" stop-color="#e6ee79"/>
+      <stop offset="0.9" stop-color="#f2ed70"/>
+      <stop offset="1" stop-color="#ffed68"/>
+    </linearGradient>
+  </defs>
+  <path id="Subtração_2" data-name="Subtração 2" d="M1493.056,1097.389l-255.315-.05,14.009-72.2H1077.719L1181.524,396h256.4l-9.833,51.207,173.35.013-108.387,650.169Z" transform="translate(-1077.129 -395.5)" stroke="rgba(0,0,0,0)" stroke-width="1" fill="url(#linear-gradient)"/>
+</svg>

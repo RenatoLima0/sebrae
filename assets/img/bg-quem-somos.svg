@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1666.167" height="720.466" viewBox="0 0 1666.167 720.466">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_27" data-name="Caminho 27" d="M126.69-675.229,0-15.5l1296.774.079,128.019-659.8Z" transform="translate(0 675.229)" fill="none"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.197" y1="0.306" x2="0.587" y2="0.306" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#ffb27f"/>
+      <stop offset="0.1" stop-color="#fda77b"/>
+      <stop offset="0.2" stop-color="#fc9c77"/>
+      <stop offset="0.3" stop-color="#fb9174"/>
+      <stop offset="0.4" stop-color="#fa8670"/>
+      <stop offset="0.5" stop-color="#f97b6c"/>
+      <stop offset="0.6" stop-color="#f87068"/>
+      <stop offset="0.7" stop-color="#f76564"/>
+      <stop offset="0.8" stop-color="#f65a60"/>
+      <stop offset="0.9" stop-color="#f54f5d"/>
+      <stop offset="1" stop-color="#f44459"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_581" data-name="Grupo 581" transform="translate(297.888 -1499.994)">
+    <g id="Grupo_582" data-name="Grupo 582">
+      <g id="Grupo_41" data-name="Grupo 41" transform="translate(-297.888 1548.856)" clip-path="url(#clip-path)">
+        <g id="Grupo_40" data-name="Grupo 40" transform="translate(-484.694 399.273) rotate(-45)">
+          <path id="Caminho_26" data-name="Caminho 26" d="M685.46,0,2105.88,1420.419l-685.46,685.46L0,685.46Z" fill="url(#linear-gradient)"/>
+        </g>
+      </g>
+      <g id="Grupo_45" data-name="Grupo 45" transform="translate(475.336 1499.994)">
+        <path id="Caminho_30" data-name="Caminho 30" d="M3.226,0-14.216,80.2l195.7.01L199.112,0Z" transform="translate(14.216)" fill="#fff"/>
+      </g>
+      <g id="Grupo_44" data-name="Grupo 44" transform="translate(755.22 1972.335)">
+        <path id="Caminho_29" data-name="Caminho 29" d="M18.45,0-39.393,248.125H553.376V0Z" transform="translate(59.683)" fill="#fff"/>
+      </g>
+    </g>
+    <g id="Grupo_47" data-name="Grupo 47" transform="translate(-93.428 2153.661)">
+      <path id="Caminho_32" data-name="Caminho 32" d="M20.008,0,3.888,64.977H981.895L1000.244,0Z" transform="translate(24.684 1)" fill="#003fd8"/>
+    </g>
+  </g>
+</svg>
