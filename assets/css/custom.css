@@ -464,6 +464,40 @@ p {
 
 /*fim modal*/
 
+@media(min-width: 1300px){
+  .modal-content h2 { 
+    font-size: 1.3rem;
+    left: 18%;
+    top: 5.5%;
+  }
+
+  #infos-cop .modal-content h2 {
+    font-size: 1.3rem;
+    left: 14%;
+    top: 4.3%;
+  }
+
+  #engajamento .modal-content h2,
+  #responsa .modal-content h2 {
+    /* top: 6%; */
+    top: 4.5%;
+  }
+  
+  #atendimento .modal-content h2,
+  #resultados-finan .modal-content h2,
+  #nossa-gente .modal-content h2,
+  #governanca .modal-content h2 {
+  }
+
+  .btn-close {
+    top: 3%;
+  }
+
+  .modal-content .desc-modal {
+    padding-left: 3rem;
+  }
+}
+
 @media(min-width: 1920px){
   .box-texto-inicial-home {
     padding-top: 23rem;
@@ -488,21 +522,23 @@ p {
   .card-group .card-body {
     padding: 1rem 5rem 1rem 1rem;
   }
-}
 
-@media(min-width: 1300px){
-  .modal-content h2 { 
+  .modal-content h2 {
     font-size: 1.5rem;
-    left: 11%;
-    top: 4%;
+    left: 17%;
+    top: 5%;
   }
-
-  .btn-close {
-    top: 3%;
+  
+  #engajamento .modal-content h2,
+  #responsa .modal-content h2 {
+    top: 6%;
   }
-
-  .modal-content .desc-modal {
-    padding-left: 3rem;
+  
+  #atendimento .modal-content h2,
+  #resultados-finan .modal-content h2,
+  #nossa-gente .modal-content h2,
+  #governanca .modal-content h2 {
+    top: 8%;
   }
 }
 
