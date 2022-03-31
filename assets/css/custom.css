@@ -440,6 +440,7 @@ p {
 
 .sec-desempenho {
   background: url('../img/bg-desempenho-ano.png') right / contain no-repeat;
+  padding: 3rem 0;
 }
 
 .p-title {
@@ -460,6 +461,14 @@ p {
   font-family: Lato, sans-serif;
   font-weight: bold;color: #0040d9;
   font-size: 2rem;
+}
+
+.box-governanca-atendimento p {
+  font-size: 1.5rem !important;
+}
+
+.top0 {
+  top: 15%;
 }
 
 /*fim modal*/
@@ -577,6 +586,11 @@ p {
     background: url('../img/bg-desempenho-ano.png') 250px 50px;
     background-size: 100%;
     background-repeat: no-repeat;
+  }
+
+  .box-texto-adm {
+    padding-top: 5rem;
+    text-align: right;
   }
 
   .card-group .card-body {
